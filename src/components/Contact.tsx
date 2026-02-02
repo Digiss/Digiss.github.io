@@ -1,6 +1,6 @@
 import { Github, Linkedin, Mail, Phone } from 'lucide-react';
 import { Download } from 'lucide-react';
-import resume from '../assets/resume.pdf';
+import resume from '../assets/correctresume.pdf';
 
 function Contact() {
   return (

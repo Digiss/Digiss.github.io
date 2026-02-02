@@ -1,6 +1,6 @@
 import { Download } from 'lucide-react';
 import { useState, useEffect } from 'react';
-import resume from '../assets/resume.pdf';
+import resume from '../assets/correctresume.pdf';
 
 function Header() {
   const [scrolled, setScrolled] = useState(false);
